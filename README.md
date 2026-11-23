@@ -1,5 +1,7 @@
 # Plannotator 速查表 | Plannotator Cheatsheet | Guía rápida de Plannotator
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Plannotator：给编程 agent 装的一个本地浏览器审阅面——agent 提出计划、写出文档或 HTML 产物、改完代码之后，页面自动打开，你直接在计划、规格、Markdown、HTML 与 diff 上圈点批注，一键把意见送回 agent 让它照着改。agent 可以不停着干，你的意见随时插得进去。
 
 - 上游项目：[backnotprop/plannotator](https://github.com/backnotprop/plannotator)（2026-11-14 实测 10,847 ★ / 807 forks，Apache-2.0 与 MIT 双许可；官网 plannotator.ai）
